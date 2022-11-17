@@ -1,5 +1,1 @@
-/**Simple_shell team project
-* Kelvin Amamize
-* Obasi Chinazaekpere Nweke
-**/
-
+Simple_shell team project
