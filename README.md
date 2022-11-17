@@ -1,5 +1,5 @@
 /**Simple_shell team project
 * Kelvin Amamize
-* Obasi Chinazaekpere 
+* Obasi Chinazaekpere Nweke
 **/
 
