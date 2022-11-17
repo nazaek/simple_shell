@@ -1,1 +1,1 @@
-Simple_shell team projet
+Simple_shell team project
